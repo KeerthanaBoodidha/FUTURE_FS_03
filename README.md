@@ -21,6 +21,8 @@ The website showcases:
 - Clean and professional UI
 - Fully organized code with separate CSS and JS files
 - Images stored in the `images` folder
+## Live Link
+- https://keerthanaboodidha.github.io/Glow-Beauty-Parlor-Website/
 
 
 ## How to Use
